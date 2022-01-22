@@ -2566,7 +2566,7 @@ h3 {
 
 
 
-.image__object-amne:not(.image__object-max) .vc_single_image-wrapper,
+.image__object-amine:not(.image__object-max) .vc_single_image-wrapper,
 .object__image--amine:not(.image__object-max) .vc_single_image-wrapper,
 .object__image__amine:not(.image__object-max) .vc_single_image-wrapper,
 .wpb_single_image:not(.image__object-max) .vc_single_image-wrapper {
@@ -3333,7 +3333,7 @@ h3 {
 }
 
 .scroll_line {
-    font-size: 0
+    font-size: 10
 }
 
 .footer {
