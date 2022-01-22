@@ -120,11 +120,11 @@
 }
 
 .fill-red {
-    fill: #ffc130
+    fill: #4cfd2d
 }
 
 .stroke-red {
-    stroke: #ffc130
+    stroke: #4cfd2d
 }
 
 body {
@@ -134,7 +134,7 @@ body {
     --dark-14: #141414;
     --silver: #656565;
     --gray: #878787;
-    --red: #ffc130
+    --red: #4cfd2d
 }
 
 .container,
@@ -750,7 +750,7 @@ a.text-warning:hover {
 }
 
 .text-danger {
-    color: #ffc130 !important
+    color: #4cfd2d !important
 }
 
 a.text-danger:focus,
@@ -828,7 +828,7 @@ a.text-gray:hover {
 }
 
 .text-red {
-    color: #ffc130 !important
+    color: #4cfd2d !important
 }
 
 a.text-red:focus,
@@ -929,7 +929,7 @@ button.bg-warning:hover {
 }
 
 .bg-danger {
-    background-color: #ffc130 !important
+    background-color: #4cfd2d !important
 }
 
 a.bg-danger:focus,
@@ -1018,7 +1018,7 @@ button.bg-gray:hover {
 }
 
 .bg-red {
-    background-color: #ffc130 !important
+    background-color: #4cfd2d !important
 }
 
 a.bg-red:focus,
@@ -3423,6 +3423,7 @@ h3 {
 
 .header_menuMobile_label {
     font-size: .5rem
+    
 }
 
 .header_menuMobile_info,
@@ -3481,7 +3482,9 @@ h3 {
 
 
 .header_menuMobile_col__menu .header_menuMobile_label {
-    margin-bottom: 1.875rem
+    margin-bottom: 1.075rem;
+    margin-top: 20%;
+    
 }
 
 .header_menuMobile_heading {
@@ -5492,7 +5495,7 @@ body.popup--opening {
     font-weight: 500;
     text-transform: uppercase;
     will-change: transform;
-    background: #ffc130;
+    background: #4cfd2d;
     border-radius: 50%;
     border: none;
     padding: 0 !important;
@@ -10847,12 +10850,12 @@ pre {
     }
 
     .header {
-        padding-top: 4rem;
+        padding-top: 2rem;
         padding-bottom: 1.5625rem
     }
 
     .header_logo img {
-        width: 2.4375rem
+        width: 8.4375rem
     }
 
     .header_timer {
@@ -15569,7 +15572,7 @@ pre {
     }
 
     .header_logo img {
-        width: 2rem
+        width: 4rem
     }
 
     .header_timer {
