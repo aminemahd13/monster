@@ -5638,14 +5638,16 @@ body.popup--opening {
 }
 
 .video__player .btn_text_child {
-    display: block
+    display: block;
+    color: #121416;
 }
 
 .video__player .btn_text_child:not(:first-child) {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%
+    width: 100%;
+    color: #121416;
 }
 
 .video__player .btn_icon {
